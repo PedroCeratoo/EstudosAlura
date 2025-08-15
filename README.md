@@ -12,6 +12,4 @@ Este repositório tem como propósito:
 
 ---
 
-## 📂 Estrutura do Repositório
-A organização dos arquivos segue a seguinte estrutura:
 
